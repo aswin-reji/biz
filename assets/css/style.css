@@ -47,7 +47,7 @@ section {
   letter-spacing: 1px;
   font-weight: 700;
   margin: 0;
-  color: #F4C430;
+  color: #930c0c;
   text-transform: uppercase;
 }
 
@@ -245,7 +245,7 @@ section {
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #F4C430;
+  background: #f7c83a;
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
